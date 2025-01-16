@@ -1,6 +1,6 @@
-# surefire-problem
+# surefire-issue
 
-User property [forkCount](https://maven.apache.org/surefire/maven-surefire-plugin/test-mojo.html#forkCount) does not override the configuration in the pom.
+The user property [forkCount](https://maven.apache.org/surefire/maven-surefire-plugin/test-mojo.html#forkCount) does not override the configuration in the pom.
 
 ## reproduce
 
